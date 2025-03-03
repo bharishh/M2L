@@ -1,10 +1,5 @@
 
-<img src="asset/Maison_des_ligues_transparent.png" alt="Exemple d'image" width="400" height="400">
-
-
-# Maison des Ligues
-
-
+# Maison des Ligues <img src="asset/Maison_des_ligues_transparent.png" alt="logo" width="400" height="400">
 
 ## Contexte
 
