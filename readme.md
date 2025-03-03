@@ -1,7 +1,7 @@
 
 # Maison des Ligues 
 
-<img src="asset/Maison_des_ligues_transparent.png" alt="logo" width="400" height="400">
+<img src="asset/Maison_des_ligues_transparent.png" alt="logo" width="200">
 
 ## Contexte
 
