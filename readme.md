@@ -1,4 +1,4 @@
-# Maison des Ligues - Intranet
+# Maison des Ligues
 
 ## Contexte
 
