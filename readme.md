@@ -1,7 +1,8 @@
 
-# Maison des Ligues 
-
-<img src="asset/Maison_des_ligues_transparent.png" alt="logo" width="200">
+<div style="display: flex; align-items: center;">
+    <img src="asset/Maison_des_ligues_transparent.png" alt="Logo Maison des Ligues" style="width: 200px; margin-right: 20px;">
+    <h1 style="margin: 0;">Maison des Ligues</h1>
+</div>
 
 ## Contexte
 
