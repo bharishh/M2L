@@ -24,3 +24,6 @@ Ce projet consiste à développer une plateforme intranet pour une société en 
 - **Front-end** : HTML, CSS, JavaScript, PHP
 - **Base de données** : MySQL
 - **Contrôle de version** : Git
+
+
+[link](https://bharishh.github.io/M2L/)
