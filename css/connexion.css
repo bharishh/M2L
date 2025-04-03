@@ -71,7 +71,7 @@ main{
 }
 
 .image{
-    background-image:url("/asset/alex-knight-2EJCSULRwC8-unsplash.jpg");
+    background-image:url("../asset/alex-knight-2EJCSULRwC8-unsplash.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
