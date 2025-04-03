@@ -1,3 +1,4 @@
+
 :root{
     --bg-color : #D9D9D9;
     --black : #444444;
@@ -22,7 +23,6 @@ body {
     grid-template-rows: auto 1fr auto;
     min-height: 100svh;
     scroll-behavior: smooth;
-    color: var(--text-color);
 }
 
 ol, ul {
