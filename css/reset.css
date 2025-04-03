@@ -7,7 +7,6 @@
 html {
     font-size: 62.5%; /* 1rem = 10px, facilite les calculs (10px/16px = 62.5%) */
     scroll-behavior: smooth;
-    block-size: border-box;
 }
 
 h1, h2, h3, h4, h5, h6, p, ol, ul, figure, blockquote, dl, dd {
@@ -30,11 +29,6 @@ ol, ul {
     list-style: none;
 }
 
-img{
-    max-width: 100%;
-    display: inline-block;
-    vertical-align: middle;
-}
 
 a {
     text-decoration: none;
