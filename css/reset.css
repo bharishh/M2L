@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6, p, ol, ul, figure, blockquote, dl, dd {
 }
 
 body {
-    font: 1.6rem "Open Sans", serif;
+    font: 1.6rem "Open Sans", sans-serif;
     line-height: 1.6;
     margin: 0;
     display: grid;

@@ -37,28 +37,32 @@ header h1{
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    font-size: 2.3rem;
-    text-align: center;
+    font-size: 3rem;
 
 }
 header nav {
     position: absolute;
-    right: 0;
+    right: 5%;
 }
 
 header nav ul{
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    gap: 4rem;
 }
 
 header nav ul li{
-    width: 200px;
     height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 1.5rem;
+
+}
+header nav ul li img{
+    height: 30px;
+    width: 30px;
+    border-radius:50%;
+    cursor: pointer;
 }
 .slogan
 {
@@ -84,15 +88,21 @@ header nav ul li{
 
 .container{
     border: 2px solid var(--button);
-    width: 40rem;
-    padding-left: 2rem;
-    padding-top: 1rem;
+    width: 50rem;
+    display: grid;
+    grid-template-columns: 2fr 2fr 3fr;
+    gap: 2rem;
+    padding: 2rem 1rem;
+}
+.container h3 {
+    text-align: end;
 }
 
 .container div img{
 height: 100px;
 width: 100px;
 border-radius:50%;
+
 }
 
 
